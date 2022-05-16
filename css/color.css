@@ -1,0 +1,13 @@
+
+/* name-color */
+.name-color{
+    color: teal;
+}
+/* hexa-color */
+.hexa-color{
+ color: #e2671d;
+}
+/* rgb-color */
+.rgb-color{
+ color: rgb(20, 50,100);
+}
